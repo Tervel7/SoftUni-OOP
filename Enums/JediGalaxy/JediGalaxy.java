@@ -45,5 +45,6 @@ public class JediGalaxy {
         }
 
         System.out.println(score);
+        // print
     }
 }
